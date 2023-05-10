@@ -1,8 +1,5 @@
 from sqlalchemy import Column, Integer
 from dados.repositories.base import Base
-# from sqlalchemy.ext.declarative import declarative_base
-
-# Base = declarative_base()
 
 class QuestionarioAcessoServico(Base):
     __tablename__ = 'questionario_acesso_servico'

@@ -1,8 +1,5 @@
 from sqlalchemy import Column, Integer, String
 from dados.repositories.base import Base  # esta linha substitui as duas linhas comentadas abaixo
-# from sqlalchemy.ext.declarative import declarative_base
-
-# Base = declarative_base()
 
 class Domicilio(Base):
     __tablename__ = 'domicilios'

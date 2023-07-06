@@ -2,6 +2,11 @@
 
 Este projeto consiste em um sistema de recenseamento com camadas de dados, API e frontend.
 
+## Link para os artigos
+[Link do primeiro artigo] (https://www.linkedin.com/posts/marcelo-jos%C3%A9-828b2524_neste-primeiro-de-5-artigos-trago-um-caso-activity-7053519094171467776-Wcsf?utm_source=share&utm_medium=member_desktop)
+
+[link do segundo artigo] (https://www.linkedin.com/posts/marcelo-jos%C3%A9-828b2524_ti-ia-openai-activity-7063687555812106240-IQc2?utm_source=share&utm_medium=member_desktop)
+
 ## Estrutura do Projeto
 
 - dados: Camada de dados com modelos e repositórios para acesso ao banco de dados
